@@ -15,7 +15,8 @@ for element in arr:
     if element == threshold2 :
         fourexist = True
         print("4 exists")
-
     else:
-        print("false")
+        print("it is not 2 or 4.")
+
+    
     
